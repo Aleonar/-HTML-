@@ -1,0 +1,7 @@
+{
+  "html.format.preserveNewLines": true,
+  "editor.foldingStrategy": "auto",
+  "editor.folding": true,
+  "editor.defaultFoldingRangeProvider": null,
+  "notebook.showFoldingControls": "never"
+}
